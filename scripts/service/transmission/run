@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv sh
+
+/usr/bin/transmission-daemon --foreground --config-dir /etc/transmission-daemon
